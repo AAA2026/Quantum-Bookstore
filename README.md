@@ -1,2 +1,3 @@
 ## TO RUN THE PROJECT USING VS CODE: OPEN THE TWO FILES ON VS CODE THEN DEBUG AND RUN THE Main.java
+![Code running](VS screenshot.png)
 ## AAA
